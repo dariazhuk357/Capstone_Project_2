@@ -47,6 +47,14 @@ The final, clean dataset comprised of 966 careers and 466 features. To avoid the
 
 ![Figure 1](https://github.com/dariazhuk357/Career-Insights/blob/master/Machine%20Learning/Images/PCA%20explained%20variance.png)
 
-
+![Figure 2](https://github.com/dariazhuk357/Career-Insights/blob/master/Machine%20Learning/Images/KMeans%20Elbow%20Graph.png)
+![Figure 3](https://github.com/dariazhuk357/Career-Insights/blob/master/Machine%20Learning/Images/TSNE-KMeans.png)
+![Figure 4](https://github.com/dariazhuk357/Career-Insights/blob/master/Machine%20Learning/Images/Dendrogram%2C%20PCA%20.png)
+![Figure 5](https://github.com/dariazhuk357/Career-Insights/blob/master/Machine%20Learning/Images/TSNE-Agglomerative%20Clustering.png)
+![Figure 6](https://github.com/dariazhuk357/Career-Insights/blob/master/Machine%20Learning/Images/RSS%20vs.%20N_comp%20NMF.png)
+![Figure 7](https://github.com/dariazhuk357/Career-Insights/blob/master/Machine%20Learning/Images/Dendrogram%2C%20NMF%20.png)
+![Figure 8](https://github.com/dariazhuk357/Career-Insights/blob/master/Machine%20Learning/Images/TSNE%20-%20NMF.png)
+![Figure 9](https://github.com/dariazhuk357/Career-Insights/blob/master/Machine%20Learning/Images/Heatmap%20-%20Cluster%20ID%20vs.%20Comp%2C%20NMF.png)
+![Figure 10](https://github.com/dariazhuk357/Career-Insights/blob/master/Machine%20Learning/Images/Heatmap%20-%20Comp%20vs.%20Features%20%2C%20NMF.png)
 
 
