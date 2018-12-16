@@ -33,7 +33,9 @@ Approximately 8 careers contained null values and were, therefore, dropped from 
 
 This project employs unsupervised machine learning techniques to maneuver around the dataset and the career features, and, therefore, part of EDA will be discussed in the Machine Learning section. 
 
-For hands-on exploration of the different features of the careers, a BokehJS application was created portraying a bargraph version of data value for each career 
+For hands-on exploration of the different features of the careers, a BokehJS application was created portraying a bargraph version of data value for each career's feature: 
+
+![BokehJS_Career_Insights_App](https://github.com/dariazhuk357/Career-Insights/blob/master/EDA/Bokeh-Career_Insights%20App.gif)
 
 
 
