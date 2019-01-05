@@ -100,17 +100,17 @@ Multiple supervised models were fitted on dataset generated in the unsupervised 
 
 Basic logistic regression was tuned using layered gridsearch (fit with multiple dimensionality reductions models and scaling methods) and the best esimator yeilded 85% accuracy. The detailed parameters can be viewed in the [Supervised_Learning Notbook](https://github.com/dariazhuk357/Career-Insights/blob/master/Machine%20Learning/Supervised_Learning.ipynb). The dimensionality reduction chosen was NMF with 20 components. The logistic regression coefficients for each of the NMF components can be seen in the graph below: 
 
-[!Figure 11](https://github.com/dariazhuk357/Career-Insights/blob/master/Machine%20Learning/Images/Logistic%20Regression%20Coefficients%20.png) 
+![Figure 11](https://github.com/dariazhuk357/Career-Insights/blob/master/Machine%20Learning/Images/Logistic%20Regression%20Coefficients%20.png) 
 
 To impove accuracy. The dataset was fit to a layered gridsearch with more advanced models listed above. The best estimator model was chosen to be SVC with an average accuracy of 88%. The detailed parameters can be viewed in the Supervised_Learning Notbook](https://github.com/dariazhuk357/Career-Insights/blob/master/Machine%20Learning/Supervised_Learning.ipynb).
 
 Generating the cross tabulation from the SVC model preditions on the test set of the full dataset revealed a well centered classification.
 
-[!Figure 12](https://github.com/dariazhuk357/Career-Insights/blob/master/Machine%20Learning/Images/Cross%20Tabulation%20SVC.png) 
+![Figure 12](https://github.com/dariazhuk357/Career-Insights/blob/master/Machine%20Learning/Images/Cross%20Tabulation%20SVC.png) 
 
 Moreover, the classification report revealed acceptable precision and recall scores for all cluster IDs. 
 
-[!Figure 12](https://github.com/dariazhuk357/Career-Insights/blob/master/Machine%20Learning/Images/Classification%20Report%20SVC.png) 
+![Figure 12](https://github.com/dariazhuk357/Career-Insights/blob/master/Machine%20Learning/Images/Classification%20Report%20SVC.png) 
 
 
 
